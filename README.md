@@ -8,7 +8,7 @@ It receives HTTP requests and replays it to multiple URLs.
 
 ## Configuration
 In `servers.yml` you can define webhook `types`. Each type should contain an array of URLs it should replay the webhook to.
-When calling http://localhost:3000/test-type, it will distribute the request to all the URLs that are in your `servers.yml` under "test-type"
+When calling http://localhost:3000/hook/test-type, it will distribute the request to all the URLs that are in your `servers.yml` under "test-type"
 
 
 ### Example servers.yml:
