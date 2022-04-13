@@ -26,7 +26,7 @@ whatsapp:
 ## Installing
 `$ npm install`.
 
-Then cretea your `servers.yml`, see the example above.
+Then create your `servers.yml` file. See the example above.
 
 
 ## Running
