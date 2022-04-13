@@ -17,7 +17,6 @@ module.exports = {
                 'data': req.body,
             }).then(res => {
                 console.log(res.config.url + ' success ' + res.status);
-                console.error(res.data);
             }).catch(e => {
                 console.log(e.config.url + ' failed ' + e.response.status);
                 console.log(e.response.data);
