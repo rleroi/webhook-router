@@ -13,7 +13,7 @@ const port = process.env.PORT || 3000;
 app.use(bodyParser.raw({'type': '*/*', 'limit': '128mb'}));
 
 app.listen(port, () => {
-    console.log(`Webhook Proxy is listening on port ${port}`);
+    console.log(`Webhook Nemesis is listening on port ${port}`);
 });
 
 app.post('/hook/:type', (req, res) => {
