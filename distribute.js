@@ -6,7 +6,6 @@ module.exports = {
         delete headers['host'];
         delete headers['connection'];
         delete headers['content-length'];
-        console.log(req.body);
 
         const responses = [];
         urls.forEach(url => {
