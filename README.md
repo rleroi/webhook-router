@@ -1,7 +1,3 @@
-# Webhook Nemesis
-The name Nemesis is related to the Greek word νέμειν némein, meaning "to give what is due", from Proto-Indo-European nem- "distribute". -- Wikipedia.org
-
-
 ## What it does
 It receives HTTP requests and replays it to multiple URLs.
 
