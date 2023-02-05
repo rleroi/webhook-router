@@ -1,5 +1,5 @@
 {
-  "name": "webhook-nemesis",
+  "name": "webhook-router",
   "version": "1.0.0",
   "description": "Distributes incoming webhooks among multiple webhook clients.",
   "main": "index.js",
