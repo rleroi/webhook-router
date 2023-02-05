@@ -1,6 +1,8 @@
 ## What it does
 It receives HTTP requests and replays it to multiple URLs.
 
+![image](https://user-images.githubusercontent.com/6817390/216837372-a857abd0-fc63-47df-b0ef-dae3e528625f.png)
+
 
 ## Configuration
 In `servers.yml` you can define webhook `types`. Each type should contain an array of URLs it should replay the webhook to.
