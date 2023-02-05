@@ -1,7 +1,7 @@
 ## What it does
 It receives HTTP requests and replays it to multiple URLs.
 
-![image](https://user-images.githubusercontent.com/6817390/216837372-a857abd0-fc63-47df-b0ef-dae3e528625f.png)
+![image](https://user-images.githubusercontent.com/6817390/216839688-b0306e19-12fc-440f-b66b-345a36575218.png)
 
 
 ## Configuration
